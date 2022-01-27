@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @christianivanaj
-- 🌱 I’m currently learning Full Stack development using the open-source cirriculum of The Odin Project.
+- 🌱 Currently learning Full Stack development using the open-source cirriculum of The Odin Project along side with the online 100Devs course.
 - 💞️ I’m looking to collaborate on anything honestly.
 - 📫 How to reach me - @christianivanaj on everthing.
