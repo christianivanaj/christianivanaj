@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @christianivanaj
-- 🌱 Currently learning Full Stack development along with Python programming using open-source cirriculums from The Odin Project, freeCodeCamp, as well as 100Devs.
-- ⚒️ I’m always looking to collaborate and contribute!
-- 📫 How to reach me - @christianivanaj on everthing.
+- 🧑‍🏭 A dedicated and driven individual with a strong passion for programming and technology
+- 🏢 Experience working at: The Boring Company, BlackBerry, Denso, as well as Stellantis
+- 🌱 Currently learning Full Stack development along with Python programming using open-source cirriculums from The Odin Project and freeCodeCamp
+- ⚒️ Always looking to collaborate and contribute!
+- 📫 Please reach out - @christianivanaj on everthing.
