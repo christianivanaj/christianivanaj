@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @christianivanaj
-- 🧑‍🏭 A dedicated and driven individual with a strong passion for programming and technology
-- 🏢 Experience working at: The Boring Company, BlackBerry, Denso, as well as Stellantis
+- 🧑 Versatile and accomplished System Administrator with a track record of managing complex IT infrastructures, including network construction, tunneling, and server management.
+- 👩‍💻 As an individual with a passion for technology and a desire to build a career in software engineering, I am currently working on a Full-Stack project to kickstart my career.
+- 🏢 Experience working at: The Boring Company, BlackBerry, Denso, and Stellantis
 - 🌱 Currently learning Full Stack development along with Python programming using open-source cirriculums from The Odin Project and freeCodeCamp
 - ⚒️ Always looking to collaborate and contribute!
-- 📫 Please reach out - @christianivanaj on everthing.
+- 📫 Please reach out - @christianivanaj on all things social or christian.ivanaj@gmail.com
