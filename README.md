@@ -1,6 +1,6 @@
-# Hi there, I'm [Christian Ivanaj] 👋
+# Hi there, I'm Christian Ivanaj 👋
 
-## I'm a Developer, Creator, and Lifelong Learner!
+### I'm a Developer, Creator, and Lifelong Learner!
 
 - 🧑 Versatile and accomplished System Administrator
 - 🔭 I’m currently working on a fun and creative project!
@@ -12,18 +12,18 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="website | Resume/Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/2721/2721720.png" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="website | Resume/Portfolio" width="25px" src="https://cdn-icons-png.flaticon.com/512/2721/2721720.png" />][website]
+[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="twitter | Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="instagram | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
 
 ### 📚 Languages and Tools:
 
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 
 
 <!-- This section is optional if you have your most used languages on GitHub -->
