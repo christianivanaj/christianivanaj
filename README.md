@@ -8,7 +8,7 @@
 - 🤝 I can never say no to collaborating with other developers
 - 🎯 2023 Goals: Contribute more to Open Source projects and become a developer full-time!
 - 🏢 Experience working at: The Boring Company, BlackBerry, Denso, and Stellantis
-- ⚡ Fun fact: I love to play guitar and explore new places
+- ⚡ Fun fact: Love exploring new places and have an incredible caffeine addiction
 
 ### 📫 Connect with me:
 
