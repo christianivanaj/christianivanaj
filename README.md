@@ -13,7 +13,7 @@
 ### 📫 Connect with me:
 
 [<img align="left" alt="website | Resume/Portfolio" width="25px" src="https://cdn-icons-png.flaticon.com/512/2721/2721720.png" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="instagram | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
@@ -21,8 +21,8 @@
 
 ### 📚 Languages and Tools:
 
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 
 
