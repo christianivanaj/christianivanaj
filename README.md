@@ -2,19 +2,18 @@
 
 ### I'm a Developer, Creator, and Lifelong Learner!
 
-- 🧑 Versatile and accomplished System Administrator
-- 🔭 I’m currently working on a fun and creative project!
+- 🧑 Versatile and accomplished Software Engineer as well as System Administrator
+- 🔭 I’m currently working on a fun and creative project! (Hint: "Roll for Initiative" 🐲)
 - 🌱 Always learning and improving my skills 🚀
-- 🤝 I can never say no to collaborating with other developers
-- 🎯 2023 Goals: Contribute more to Open Source projects and become a developer full-time!
-- 🏢 Experience working at: The Boring Company, BlackBerry, Denso, and Stellantis
-- ⚡ Fun fact: Love exploring new places and have an incredible caffeine addiction
+- 🤝 I can never say no to collaborating with other developers/engineers
+- 🎯 2024 Goals: Contribute more to Open Source projects!
+- 🏢 Experience working at: United Wholesale Mortgage, The Boring Company, BlackBerry, DENSO, and Stellantis
+- ⚡ Fun fact: Love exploring new places and have an incredible caffeine addiction ☕
 
 ### 📫 Connect with me:
 
 [<img align="left" alt="website | Resume/Portfolio" width="25px" src="https://cdn-icons-png.flaticon.com/512/2721/2721720.png" />][website]
 [<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="instagram | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
@@ -24,6 +23,8 @@
 <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
 <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/8001/8001983.png"></code>
 
 
 <!-- This section is optional if you have your most used languages on GitHub -->
@@ -42,6 +43,5 @@
 
 <!-- Links -->
 [website]: http://christianivanaj.com
-[twitter]: https://twitter.com/christianivanaj
-[instagram]: https://instagram.com/christianivanaj
 [linkedin]: https://linkedin.com/in/christianivanaj
+[instagram]: https://instagram.com/christianivanaj
