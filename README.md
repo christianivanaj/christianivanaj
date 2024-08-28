@@ -42,6 +42,6 @@
 ⭐️ From [Christian Ivanaj](https://github.com/christianivanaj)
 
 <!-- Links -->
-[website]: http://christianivanaj.com
+[website]: https://christianivanaj.com
 [linkedin]: https://linkedin.com/in/christianivanaj
 [instagram]: https://instagram.com/christianivanaj
